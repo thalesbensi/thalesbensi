@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá 👋, Me chamo Thales Bensi</h1>
 <h3 align="center">Ex estudante de psicologia que se apaixonou pela área de tecnologia e agora busca se aprimorar cada vez mais na mesma, e claro aluno do @gustavoguanabara</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNzcHVicGN3ZjBkZ2tnZHJhZ3BmdjZidGx6MWtzNnYydHU5bGUwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp)">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNzcHVicGN3ZjBkZ2tnZHJhZ3BmdjZidGx6MWtzNnYydHU5bGUwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp">
 
 - 🌱 Atualmente aprendendo **JavaScript**
 
