@@ -57,6 +57,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/thalesbensi/thalesbensi/output/snake.svg" alt="Snake animation" />
-
-###
