@@ -57,14 +57,16 @@
 
 <br clear="both">
 
-<img align="right" height="250" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/thalesbensi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="250" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"  />
 
 ###
