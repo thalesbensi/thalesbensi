@@ -1,8 +1,7 @@
-<h2 align="center">Hi, I'm Thales Bensi🙋‍♂️</h2>
+<h2 align="center">Back-End Developer | Cybersec Student</h2>
 
 ###
 
-<p align="center">- Back-End Developer</p>
 
 ###
 
